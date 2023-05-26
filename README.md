@@ -7,6 +7,7 @@ Welcome to the Awesome Coding Week Leaderboard! This leaderboard showcases the t
 - Displays the top 3 contributors prominently with their avatars and points.
 - Automatically adds new contributors if the API data exceeds the available divisions.
 - Sorts the contributors based on points in descending order.
+- Lists additional contributors in a responsive grid layout.
 
 ## Technologies Used
 
