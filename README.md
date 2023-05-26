@@ -15,14 +15,6 @@ Welcome to the Awesome Coding Week Leaderboard! This leaderboard showcases the t
 - CSS
 - JavaScript
 
-## Usage
-
-To use the leaderboard, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/YourUsername/YourRepository.git`
-2. Open the `index.html` file in your web browser.
-3. The leaderboard will load and display the top contributors and their points.
-
 Feel free to modify the code to customize the design or integrate it into your own project!
 
 ## API
